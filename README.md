@@ -58,7 +58,7 @@ Ambiente de Testes: Devido a restrições de versão do Expo Go no hardware util
 [x] Documentação e Entrega: Repositório estruturado para versionamento via Git/GitHub.
 
 
-### O que mudou nesta versão:
+### Destaques: Update atualização
 
 Destaque para o Unsplash: Coloquei logo no início que o app agora tem "curadoria visual", o que soa muito bem tecnicamente.
 
