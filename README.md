@@ -1,3 +1,5 @@
+# MotivaIA
+
 MotivaIA – Projeto Final React Native (UTFPR)
 Este aplicativo foi desenvolvido para a disciplina de React Native, sob orientação do professor Vinicius Oliveira. O MotivaIA combina inteligência artificial e curadoria visual para gerar mensagens de incentivo personalizadas, envoltas em uma interface minimalista projetada para transmitir calma e bem-estar.
 
@@ -70,4 +72,4 @@ Resiliência do Código: Adicionei a nota técnica explicando que o app não "qu
 
 Desenvolvido por: Samuel Teodoro Ferreira
 
-# MotivaIA
+
