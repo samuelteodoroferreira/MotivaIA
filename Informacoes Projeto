@@ -1,0 +1,22 @@
+Olá, pessoal!
+Chegamos à etapa final da nossa disciplina de React Native, e agora é hora de colocar em prática tudo o que aprendemos ao longo do curso. Para o trabalho final, vocês deverão desenvolver um aplicativo que utilize uma integração com IA para gerar respostas criativas ou úteis com base em uma entrada fornecida pelo usuário.
+Proposta do Trabalho:
+Vocês devem criar um app interativo em React Native, no qual o usuário insere algum tipo de dado e a aplicação, utilizando uma API de IA, responde de forma personalizada, criativa ou funcional.
+Exemplo:
+Um app que sugere receitas com base nos ingredientes fornecidos.
+Uma ferramenta motivacional que oferece mensagens de encorajamento com base no estado emocional do usuário.
+Um gerador de histórias ou elogios personalizados.
+Vocês têm liberdade criativa para propor algo diferente, desde que sigam o mesmo princípio de entrada de dados do usuário + resposta gerada pela IA.
+Requisitos Técnicos:
+O app deve ser desenvolvido em React Native.
+Deve ter uma interface funcional e intuitiva (não precisa ser sofisticada, mas deve permitir uma boa usabilidade).
+Deve realizar chamadas a uma API de IA para processar as respostas.
+O código deve estar comentado e organizado.
+Deve ser entregue via link do repositório no GitHub até domingo (03/10), às 23h59.
+
+Critérios de Avaliação:
+Criatividade na ideia proposta.
+Implementação técnica (uso correto de React Native e integração com a API).
+Pode ser realizado em duplas
+Se precisarem de ajuda, fiquem à vontade para entrar em contato comigo ou tirar dúvidas em sala. Estou ansioso para ver as ideias de vocês ganhando vida!
+Bons estudos e bom trabalho! Vinicius Oliveira

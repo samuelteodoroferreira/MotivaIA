@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Projeto Final React Native IA",
+    "slug": "projeto-final-react-native-ia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "local-projeto-final-react-native-ia"
+      }
+    }
+  }
+}
